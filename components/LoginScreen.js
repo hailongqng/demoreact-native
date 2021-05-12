@@ -7,7 +7,7 @@ function LoginScreen ({navigation}) {
                 <View style={styles.container}>
                     <View style={styles.logoContainer}>
                         <Image style={styles.logo} source={require('../images/logo.jpg')}></Image>
-                        <Text style={styles.title}>This is my honey</Text>
+                        <Text style={styles.title}>♥ ♥ ♥</Text>
                     </View>
                     <View style={styles.infocontainer}>
                         <Text style={styles.title2}>Tài khoản</Text>
@@ -37,7 +37,7 @@ const styles =StyleSheet.create({
         color: 'black',
     },
     logo:{
-        width: 100,
+        width: 300,
         height: 150,
     },
     logoContainer:{
