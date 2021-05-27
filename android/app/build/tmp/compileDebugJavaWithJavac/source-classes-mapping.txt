@@ -1,14 +1,14 @@
-com/demo/BuildConfig.java
- com.demo.BuildConfig
-com/demo/MainApplication.java
- com.demo.MainApplication
- com.demo.MainApplication$1
-com/demo/ReactNativeFlipper.java
- com.demo.ReactNativeFlipper
- com.demo.ReactNativeFlipper$1
- com.demo.ReactNativeFlipper$2
- com.demo.ReactNativeFlipper$2$1
-com/demo/MainActivity.java
- com.demo.MainActivity
+com/campusxapp/MainApplication.java
+ com.campusxapp.MainApplication
+ com.campusxapp.MainApplication$1
+com/campusxapp/BuildConfig.java
+ com.campusxapp.BuildConfig
+com/campusxapp/ReactNativeFlipper.java
+ com.campusxapp.ReactNativeFlipper
+ com.campusxapp.ReactNativeFlipper$1
+ com.campusxapp.ReactNativeFlipper$2
+ com.campusxapp.ReactNativeFlipper$2$1
 com/facebook/react/PackageList.java
  com.facebook.react.PackageList
+com/campusxapp/MainActivity.java
+ com.campusxapp.MainActivity
